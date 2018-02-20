@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import $ from 'jquery';
+import Form from './Components/form.jsx'
+
 // import AnyComponent from './components/filename.jsx'
 
 class App extends React.Component {
@@ -12,7 +13,11 @@ class App extends React.Component {
   }
 
   render () {
-  	return (<div>Hello World</div>)
+  	return (
+      <div>
+        <Form/>
+      </div>
+    )
   }
 }
 
