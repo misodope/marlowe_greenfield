@@ -1,6 +1,6 @@
 # Project Name
 
-> Pithy project description
+Kindly is platform whereon users can either offer or claim listings of surplus food. Our goal is to build communities, provide for the needy and tackle the issue of food waste.
 
 ## Team
 
@@ -20,7 +20,7 @@
 
 ## Usage
 
-> Some usage instructions
+Users must have an account to login to the platform. Once logged on, they have access to our registry of food listings. Every listing can be inspected more closely via selection. Users may also add to the registry.
 
 ## Requirements
 
