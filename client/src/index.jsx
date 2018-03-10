@@ -77,7 +77,7 @@ class App extends React.Component {
       'All Posts': this.retrievePosts,
       'My Posts': this.retrieveMyPosts,
       'Nearby': this.retrieveClaimsByDist,
-      'My Claimed': this.retrieveMyClaimedPosts
+      'My Claimed': this.retrieveMyClaims
     }
     handle[key]()
       .then(()=> {
@@ -167,7 +167,6 @@ class App extends React.Component {
   }
 
   retrieveMyClaimedPosts() {
-    console.log('begin retrieveMyClaimedPosts!');
     return axios
       .get("/fetchMyPosts", {params: {claimed: true}})
       .then(results => {
