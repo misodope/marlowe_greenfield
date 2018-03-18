@@ -1,0 +1,202 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #4482bc;
+}
+
+.listheader {
+  text-align: center;
+  color: #e8532e;
+  font-family: monospace;
+}
+
+.listheader h2 {
+  color: #e8532e;
+}
+
+.list ul {
+  margin: 0;
+  padding: 0;
+}
+
+.listItem {
+  background-color: #FFC97C;
+  padding: 10px 50px 20px;
+  display: flex;
+  border: 1px solid #DCDEDD;
+  border-radius: 8px;
+  box-shadow: -7px 4px 5px #d0caca;
+  box-sizing: inherit;
+  margin: 10px;
+  font-size: 2rem;
+  line-height: 2.4rem;
+  /*font-family: monospace;*/
+  position: relative;
+}
+
+.listItem div {
+  color: #dc6f54;
+}
+
+.listItem:hover {
+  box-shadow: -7px 4px 5px #504f4f;
+  font-weight: bold;
+}
+
+
+.listDescription {
+  color: #282828;
+  fill: #282828;
+  font-size: 1.2rem;
+  line-height: 2.4rem;
+  padding: 10px 0px 0px 20px;
+}
+
+.jumbotron {
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+  height: 575px;
+  /* background-image: url('images/allHandsIn.png'); */
+  /* background-size: auto 100%; */
+  /* background-position: 0 0; */
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.map {
+  padding-top: 4.8rem;
+  min-height: 200px;
+}
+.navbar {
+  margin-bottom:0;
+}
+
+.pop {
+  min-height: 400px;
+  min-width: 400px;
+}
+
+.styleLogin {
+  color: white;
+}
+
+.Login {
+  max-width: 400px;
+  margin: 10% auto;
+}
+
+.Login h1 {
+  text-align: center;
+}
+
+.formDonate {
+  padding-top: 40px;
+}
+
+.formDonate input, .formDonate button {
+  margin: 8px;
+}
+
+.popover>.arrow, .popover>.arrow:after {
+  display: none;
+}
+
+.mainText{
+  position: relative;
+  top: 25%;
+}
+
+.dropzone {
+  position: relative;
+  left: 8px;
+  width: 100%;
+}
+
+.settings {
+  border-style: none;
+  left: 0px;
+  right: 0px;
+  display: block;
+  /* padding: 10px 0px 10px 0px !important; */
+}
+
+#yesVerfied {
+  background-color: rgb(109, 226, 117);
+  color: white;
+}
+
+.settingsLabel {
+  border-style: none;
+  display: block;
+  padding: 14px 0px 10px 0px !important;
+}
+
+.settingsLabel2 {
+  border-style: none;
+  padding-right:0px !important;
+  color: #777;
+}
+
+.settingsForm {
+  padding: 8px 10px 5px 20px !important;
+  margin: 5px 0px 5px 0px !important;
+  border: 1px solid #e7e7e7;
+  background-color: #f8f8f8;
+  color: #777;
+}
+
+.settingsForm2 {
+  margin-left: 0px !important;
+  margin-right: 0px;
+  padding-left: 0px !important;
+  padding-top: 14px;
+}
+.settingsButton {
+  padding: 8px 15px;
+  padding-bottom: 10px;
+  height: 0px;
+  margin-top: 1px;
+}
+.settingsButton2 {
+  width: 50px !important;
+  padding-left:0px !important;
+  margin-left:0px !important;
+}
+
+.totalContainer {
+  margin-top: 8px
+}
+
+.orgTotal {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+}
+
+.totalHeader {
+  display: block;
+  font-size: 10px;
+  text-align: center;
+}
+
+.panel-title-margins {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: inherit;
+}
+
+.panel-dense {
+  margin-bottom: 5px;
+  background-color: #fff;
+  /* border: 1px solid transparent; */
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+
+

@@ -1,4 +1,4 @@
-# Project Name #
+# Kind.ly #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,28 +17,31 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Kind.ly, Support your communities 
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > A last minute resource aiming to reducing food waste and feeding our hungry communites 
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Kind.ly is for anyone with a warm heart and an excess of food or free time. Kind.ly connecting those with an excess of food after an event and those who are kindly donating their time to ensure their hungry communities stay feed. Finding yourself with the excess food after a conference, wedding, or
+  any event ? Simply login on to kind.ly, post your offerings including a photo and a location and in minutes you're kind donation will be offered up to thousands of users in your community who are willing to faciliate the pick up and drop off at the nearest food bank or homeless shelter. Once you're offering is claimed, you and the provider will be notified via SMS. That's it ! Still want to do more good, with Kind.ly you can login at anytime a view all the other offers in your community. Kindly claim one and you're off ! 
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > America throws away more than 38 million tons of food every year. That’s the weight of 104 Empire State Buildings, with a bit to spare. Or, to put 	it another way, that single year’s worth of food waste would be enough to balance a scale with of all the Blue Whales left in the world, multiplied by 10, stacked up on the other side. It's common occurance after events, conferences, weddings, and parties that there are abundance of food that's already been paid for that simply goes to waste either to the planner/host is simply to busy with post event activies to handle the food wastage kindly. 
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Kind.ly aims to be the go to resoucres for anyone who finds themselves in that position by connecting them to kind and willing users to faciliate  the pick up and drop off of perfectly good food that would otherwise be wasted 
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Ready to do good now ? Whether you have an excess of food you're willing to donate or ready to volunteer your time, it's as simple 
+  	as logging on to kind.ly 
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "It's never been easier to good with kind.ly " - Backbone Jerry 
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Ready to do good now ? Whether you have an excess of food you're willing to donate or ready to volunteer your time, it's as simple 
+  	as logging on to kind.ly 
