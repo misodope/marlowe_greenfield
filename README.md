@@ -1,6 +1,6 @@
 # Project Name
 
-> Kind.ly is for anyone with a warm heart and an excess of food or free time. Kind.ly connecting those with an excess of food after an event and those who are kindly donating their time to ensure their hungry communities stay feed. Finding yourself with the excess food after a conference, wedding, or
+Kind.ly is for anyone with a warm heart and an excess of food or free time. Kind.ly connecting those with an excess of food after an event and those who are kindly donating their time to ensure their hungry communities stay feed. Finding yourself with the excess food after a conference, wedding, or
   any event ? Simply login on to kind.ly, post your offerings including a photo and a location and in minutes you're kind donation will be offered up to thousands of users in your community who are willing to faciliate the pick up and drop off at the nearest food bank or homeless shelter. Once you're offering is claimed, you and the provider will be notified via SMS. That's it ! Still want to do more good, with Kind.ly you can login at anytime a view all the other offers in your community. Kindly claim one and you're off ! 
 
 ## Team
@@ -12,7 +12,9 @@
 
 ## Usage
 
-> Use the app
+Users must have an account to login to the platform. Once logged on, they have access to our registry of food listings. Every listing can be inspected more closely via selection. Users may also add to the registry.
+
+## Requirements
 
 
 ## Development
