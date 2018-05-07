@@ -5,9 +5,9 @@ Kind.ly is for anyone with a warm heart and an excess of food or free time. Kind
 
 ## Team
 
-  - __Product Owner__: Adam Mateo
-  - __Scrum Master__: Aloralyn Ayran
-  - __Development Team Members__: Adam Mateo, Aloralyn Ayran, Mike Vasios, Yu Qing Dong
+  - __Product Owner__: Eric Shum
+  - __Scrum Master__: Quentin Vidal
+  - __Development Team Members__: Jerry Chen, Riley Alsman
 
 
 ## Usage
